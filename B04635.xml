@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One story is good till the other is told. A Roman story told by Dick to Tom on a winters night concerning the ingratitude of the Romans to Julius Cæsar, that famous emperor who fell a sacrifice to the malice of some persons whom he had rais'd to great honours and preferment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04635</idno>
+            <idno type="STC">Wing O336AB</idno>
+            <idno type="STC">ESTC R203073</idno>
+            <idno type="EEBO-CITATION">51617811</idno>
+            <idno type="OCLC">ocm 51617811</idno>
+            <idno type="VID">175307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175307)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2727:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One story is good till the other is told. A Roman story told by Dick to Tom on a winters night concerning the ingratitude of the Romans to Julius Cæsar, that famous emperor who fell a sacrifice to the malice of some persons whom he had rais'd to great honours and preferment.</title>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: p. [3] cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Caesar, Julius.</term>
+               <term>Rome --  Politics and government --  265-30 B.C. --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:175307:1"/>
+            <head>One Story is Good till the other is Told. A Roman Story told by <hi>Dick</hi> to <hi>Tom</hi> on a Win<g ref="char:EOLhyphen"/>ters Night Concerning the Ingratitude of the Romans to <hi>Julius Caeſar,</hi> that famous Emperor who fell a ſacrifice to the Malice of ſome Perſons whom he had rais'd to great Honours and Preferment.</head>
+            <q>Ad Generum Gereris Sine Caede &amp; Sanguine pauci deſcendnat Reges.</q>
+            <sp>
+               <speaker>Tom</speaker>
+               <p>VVEll <hi>Dick</hi> I am told thou haſt been Bred a Scholar, and 'tis like you can tell ſome Story to divert us, prithee be not ſparing of your labour.</p>
+            </sp>
+            <sp>
+               <speaker>Dick,</speaker>
+               <p>withal my heart <hi>Tom</hi> I will o<g ref="char:EOLhyphen"/>blige you, but what kind of Story is it you like.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Nay, you are the beſt Judge, but if I were to chuſe I wou'd have a Roman Story for I have often heard talk of thoſe People.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Well then <hi>Tom,</hi> He tell you a Sto<g ref="char:EOLhyphen"/>ry that ſeems to run parallel to the Tran<g ref="char:EOLhyphen"/>ſactions of <hi>Forty One.</hi> 'Tis about <hi>Julius Caezar</hi> the firſt of the Roman Emperor's. who for his Illuſtrious deſcent, his ex<g ref="char:EOLhyphen"/>traordinary Vertues and perſonal Courage was the only Perſon that was capable of putting an end to Conſular Government, which after the Expulſion of the <hi>Tarquins,</hi> had laſted for ſome hundreds of Years.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But pray why was he call'd <hi>Julius.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Becauſe he was lineally deſcend<g ref="char:EOLhyphen"/>ded from <hi>Julus</hi> the Son of <hi>Æneas,</hi> that fam'd <hi>Trojan,</hi> who after the Deſtruction of Troy ſail'd into <hi>Italy,</hi> and whoſe poſte<g ref="char:EOLhyphen"/>rity were the Founders of <hi>Rome,</hi> he was at firſt one of the Triumviry, but after the Death of <hi>Pompey</hi> and <hi>Craſſus,</hi> the Adminiſtration of Affairs came into his own hands, and he by an unweary'd appli<g ref="char:EOLhyphen"/>cation to buſineſs of State ſo gain'd up<g ref="char:EOLhyphen"/>on the Hearts of the People, that he was by Univerſal conſent Proclaim'd Em<g ref="char:EOLhyphen"/>peror,</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But what is the Difference be<g ref="char:EOLhyphen"/>tween King and Emperor.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>They are different Names, but the Power in both is the ſame abſolute and unreſiſtable in any Caſe whatſoever, and to reſiſt, either I hold to be a dam<g ref="char:EOLhyphen"/>ning Sin, and there is on every Subject, an indiſpenſible Obligation to obey the
+<pb facs="tcp:175307:2"/>Monarch, whether King or Emperor as ſupreme Magiſtrate.</p>
+               <p>
+                  <hi>Julius Caezar</hi> after his Acceſſion to the Imperial Dignity demean'd himſelf with all imaginable ſweetneſs and Condeſcen<g ref="char:EOLhyphen"/>tion; he was alſo a great lover of Learning and thoſe hours he cou'd ſpare from Pu<g ref="char:EOLhyphen"/>blick buſineſs he dedicated to Study which was greatly further'd by his happy Genius for he cou'd riſe our ſeand write at the ſame time; he wrote Commentaries or Me<g ref="char:EOLhyphen"/>moirs of his own Life which was truly Heroick, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s did our late Gracious but un<g ref="char:EOLhyphen"/>happy Sovereign King <hi>Charles</hi> the firſt<g ref="char:punc">▪</g> In a Book entuled the <hi>Protraiture</hi> of the King.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I belive there are other circum<g ref="char:EOLhyphen"/>ſtances of their Lives which agree as well as that one.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Aye, their Lives, agree in the moſt Fatal circumſtances; for it was the Misfortune of both to have to do with the moſt ungrateful Perſons and to be be<g ref="char:EOLhyphen"/>tray'd by thoſe in whom they repoſed the greateſt Truſt, they were both Bar<g ref="char:EOLhyphen"/>barouſly Murder'd, one by the hands, the other by the ſentence of the Senators.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But what was it excited thoſe Rebels to ſo inhumane a proceeding.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>'Twas either ambition of raiſing themſelves an Affectation of Popularity; or a falſe notion of liberty, which they Judged inconſiſtent with Obedience to any one Perſon.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But who were the Chief Perſons concerned in the Murder of <hi>Caezar,</hi> and wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Means did they uſe to effect it.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>
+                  <hi>Brutus</hi> and <hi>Caſius</hi> were the head of the Conſpiracy, Men by nature cut out for ſuch an Enterprize, the latter be<g ref="char:EOLhyphen"/>ing a Crafty, Sly Inv<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rate Man, the for<g ref="char:EOLhyphen"/>mer a Reſolute Ambitious and daring one, but what was moſt remarkable was the Ingratitude of <hi>Brutus</hi> who had been rais'd by <hi>Caezar,</hi> to Great and Signal Honour. And was his greateſt favourite in ſo much that he was wont frequently to call him Son in Token of his love? Nevertheleſs this Man was eaſily induced to endeavour a change of Government, and brought over to his Intereſt, many of the greateſt Quality in <hi>Rome,</hi> whom he engaged to help to diſpatch <hi>Caezar</hi> the firſt oppertu<g ref="char:EOLhyphen"/>nity,</p>
+            </sp>
+            <sp>
+               <speaker>Tom,</speaker>
+               <p>Methinks this Man was ſomething like <hi>Oliver Cromwell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>DICK.</speaker>
+               <p>their Principles were much the ſame, and tho' they were both monſtrouſly ungrateful <hi>Brutus</hi>'s Proceedings were much more honourable for he had not the Impudence to Impeach his Sovereign openly, or put him to a for<g ref="char:EOLhyphen"/>mal Tryal, but had him diſpatch'd not by the Hand of the Common Executioner, but by Men tho' Rebels, nobly born; but after ſeveral perſons of Note had enter'd into this Conſpiracy, the opportunity to execute the deſign was wanting at length it was agreed, that aſſoon as <hi>Caeſar</hi> came into the Senat-Houſe they ſhou'd fall up<g ref="char:EOLhyphen"/>on him; He had ſeveral warnings of his approaching Fate, for there was a certain Man skill'd in divination who told him the Ides of <hi>March</hi> wou'd be Fatal to him, and the Night before the Aſſaſſinati<g ref="char:EOLhyphen"/>on, his Wife <hi>Calpburnia</hi> dream's that the Palace fell down and cruſht him to death in her Arms, and at break of day a Ra<g ref="char:EOLhyphen"/>ven was ſeen to flutter about the Window and make diſmal Noiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>That look't indeed as if Heaven was careful for his preſervation.</p>
+            </sp>
+            <sp>
+               <speaker>Di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</speaker>
+               <p>Undoubtedly the Gate of Hea<g ref="char:EOLhyphen"/>ven is concern'd in preſervation of the life of every Man, but more particularly in defending the Sacred perſon of a King, who is the Vice-gerent of God Almighty on Earth: But beſides the entreaties of
+<pb facs="tcp:175307:2"/>his Wife to put off the Meeting till ano<g ref="char:EOLhyphen"/>ther day, he found in himſelf a backward<g ref="char:EOLhyphen"/>neſs to go, and pretended an indiſpoſition, but the Conſpirators being all Aſſembled, ſent ſeveral Meſſengers to tell him the Houſe was full, and that they impatient<g ref="char:EOLhyphen"/>ly expected his coming, upon which he went; and in his way thither, met the Man who told him the Ides of <hi>March</hi> wou'd be Fatal to him, to whom he ſmilling Cry'd, well you ſee the Ides of <hi>March</hi> are come. Ay! But replyed the o<g ref="char:EOLhyphen"/>ther, they are not paſt yet, and when he had gone a little further, there was a Let<g ref="char:EOLhyphen"/>ter delivered him by an Unknown Ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the Meſſenger deſired him to Read it, ſaying 'twas matter of great concern, for it contained an Account of the Conſpira<g ref="char:EOLhyphen"/>cy, but he believing it to be a Letter of Requeſt, put it among other Papers, and went directly to the Senate-Houſe, where the Rebels fell upon him, he for ſometime withſtood the fury of them all, but ſeeing <hi>Brutus</hi> ſtrike at him, he ceaſed to defend himſelf, and mildly reproached him in theſe words, <hi>and you too my Son,</hi> as if he had ſaid, I neither deſerved nor expected this at your Hands, there fell the Valient <hi>Caeſar</hi> after he had received above twenty Wounds.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>But what became of <hi>Brutus</hi> after, for I long to hear whether he ſuffered de<g ref="char:EOLhyphen"/>ſerved Puniſhment. I hope he did not Eſcape hanging till after he was Dead as our <hi>Oliver</hi> did.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>After the death of <hi>Caeſar, Mark An<g ref="char:EOLhyphen"/>thony</hi> made a Funeral Oration to t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e peo<g ref="char:EOLhyphen"/>ple, in which he mentioned ſeveral Glo<g ref="char:EOLhyphen"/>rious Acts of <hi>Caeſar,</hi> and in the Middle of his Speech, lifted a Cloath which covered the Body<g ref="char:punc">▪</g> and ſhew'd his wounds all Bloody. which ſo enrag'd the People, that they lighted Torches and ran about the Ci<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y with a deſign to deſtroy the Con<g ref="char:EOLhyphen"/>ſpirators, and burn their Houſes. In this Hurry <hi>Brutus</hi> and <hi>Caſſius</hi> made their E<g ref="char:EOLhyphen"/>ſcape, and having gathered an Army of Rebels they prepared to defend themſelves, but were overthrown by <hi>Octavius</hi> and <hi>Mark Anthony</hi> at <hi>Philippi,</hi> where after their defeat <hi>Caſſius</hi> deſpairing, and oppreſt by his Melancholly Temper, kill'd him<g ref="char:EOLhyphen"/>ſelf, of which when <hi>Brutus</hi> heard he wiſe<g ref="char:EOLhyphen"/>ly followed his example. At length Civil Wars being over, <hi>Auguſtus</hi> who was Ne<g ref="char:EOLhyphen"/>phew to <hi>Julius Caeſar</hi> was Proclaimed Emperor, who was not Inferior to his predeceſſor in any vertue, but was much more Fortunate, and under whom the Romans enjoy'd a long and happy Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I think that is not unlike the Reſtoration of our late Gracious So<g ref="char:EOLhyphen"/>vereign <hi>King Charles</hi> the II: and you know his was a peaceable Reign.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Why <hi>Tom</hi> thou haſt a good fan<g ref="char:EOLhyphen"/>cy, and 'tis Pitty thou wert a Scholar.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I wiſh I were innocent, but 'tis too late to begin to learn, but I fear <hi>Dick</hi> there are Perſons of Diſti<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion among us who wou'd play the part of <hi>Brutus</hi> or <hi>Cromwel</hi> if they had the Opportunity.</p>
+            </sp>
+            <sp>
+               <speaker>Dick.</speaker>
+               <p>Very Probable <hi>Tom,</hi> but I am ſure, that they who have the Power at preſent, have not the will, and they that have the will, may they never have the Power.</p>
+            </sp>
+         </div>
+         <div type="advert_for_arboricultural_and_horticultural_goods">
+            <p>AT Chapple-Izod, at the Gardens of the late Mr. Robert Wadeley, Gardner, De<g ref="char:EOLhyphen"/>ceas'd: The following Trees are to be Sold at Reaſonable Rates, either by whole Sale or Retail, <hi>(viz)</hi> Elms, Horſe heſt<g ref="char:punc">▪</g> Nuts, Flowering, Laureſtines, Cyprus, Junipers, Yews, gilt Hollies Holly Stocks; all manner of Shrubs, Gilt-Box, all manner of Houſe Greens, as Oranges, Lemons, Mertiles, Alloways, Pomgranets, Olives, fine Arbatus, all manner of choice Fruit Trees, for Walls or Standards, as Peaches, Apprecocks, Neck<g ref="char:EOLhyphen"/>terins, Apples, Pears, Plum<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Cherry<g ref="char:punc">▪</g>s of all kinds, G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ajs Frames for hot Beds, Bell-glaſſes very fine, Likewiſe Two Gardens well planted with choice of Wall Fruit, and Standards, and two Meadows for Greſs. The Garddens and Meadows to be Set ſeverally or together, by the year or for a Term of Years. Enquire of Mr. DUDLEY DONNELLY at the SWAN, oppoſiee to the Queen's Gardens in Ch<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:175307:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
